@@ -10,4 +10,4 @@ twitter = "rumlangorg"
 [[menu.main]]
 name = "play"
 weight = -100
-url = "https://play.rumlang.org/"
+url = "http://play.rumlang.org/"
