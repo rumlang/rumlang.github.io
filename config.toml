@@ -1,0 +1,13 @@
+baseURL = "https://rumlang.org/"
+languageCode = "en-us"
+title = "The Rum Programming Language"
+description = "Rum is an open source programming language that makes it easy to build simple, reliable, and efficient software for statistical computing"
+theme = "kube"
+
+[params]
+twitter = "rumlangorg"
+
+[[menu.main]]
+name = "play"
+weight = -100
+url = "https://play.rumlang.org/"
