@@ -8,6 +8,10 @@ theme = "kube"
 twitter = "rumlangorg"
 
 [[menu.main]]
-name = "play"
+name = "Playground"
 weight = -100
 url = "http://play.rumlang.org/"
+[[menu.main]]
+name = "Legal"
+weight = -100
+url = "/legal/"
