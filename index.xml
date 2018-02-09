@@ -6,9 +6,21 @@
     <description>Recent content on The Rum Programming Language</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Fri, 09 Feb 2018 16:51:52 -0200</lastBuildDate>
     
 	<atom:link href="https://rumlang.org/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Copyright</title>
+      <link>https://rumlang.org/legal/</link>
+      <pubDate>Fri, 09 Feb 2018 16:51:52 -0200</pubDate>
+      
+      <guid>https://rumlang.org/legal/</guid>
+      <description>The Rum trademarks The Rum programming language is an open source, community project governed by a core team.
+The Rum Trademarks include two word marks and two logos:
+License Interested parties may adapt this document freely under the MIT License.</description>
+    </item>
     
   </channel>
 </rss>
