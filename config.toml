@@ -5,7 +5,12 @@ description = "Rum is an open source programming language that makes it easy to 
 theme = "kube"
 
 [params]
+tagline = "rum, rumlang, lisp, clisp, golang"
 twitter = "rumlangorg"
+lang = "en"
+highlightjs = true
+footertext = "written by Rum Team"
+googleAnalytics = "UA-113963945-1"
 
 [[menu.main]]
 name = "Playground"
