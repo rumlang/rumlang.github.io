@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>The Rum Programming Language</title>
+    <title>Rum Language</title>
     <link>https://rumlang.org/</link>
-    <description>Recent content on The Rum Programming Language</description>
+    <description>Recent content on Rum Language</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 09 Feb 2018 16:51:52 -0200</lastBuildDate>
