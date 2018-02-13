@@ -20,3 +20,7 @@ url = "http://play.rumlang.org/"
 name = "Legal"
 weight = -100
 url = "/legal/"
+[[menu.main]]
+name = "Community"
+weight = -100
+url = "/community/"
