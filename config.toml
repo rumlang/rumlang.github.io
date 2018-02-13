@@ -1,11 +1,11 @@
 baseURL = "https://rumlang.org/"
 languageCode = "en-us"
-title = "The Rum Programming Language"
-description = "Rum is an open source programming language that makes it easy to build simple, reliable, and efficient software for statistical computing"
+title = "Rum Language"
+description = "Functional language, easily extensible and possible (Lua features with LISP syntax and functional) to be embarked on software Go"
 theme = "kube"
 
 [params]
-tagline = "rum, rumlang, lisp, clisp, golang"
+tagline = "rum, rumlang, lisp, clisp, golang, functional"
 twitter = "rumlangorg"
 lang = "en"
 highlightjs = true
